@@ -1,9 +1,10 @@
 
 # Real time face recognition in Android 
 
+Its a simple app to have fun with tensorflow and face recognition, train your face in the app and label a cool name and give a prank label for others, and play the prank with your friends.
 
-[![example 1](http://img.youtube.com/vi/V1IflHa8AAY/0.jpg)](https://youtu.be/V1IflHa8AAY "demo 1")
-[![example 2](http://img.youtube.com/vi/y-1lO3m-SRI/0.jpg)](https://youtu.be/y-1lO3m-SRI "demo 2")
+TODO:
+Labels are basic,  a real app for face prank is to add graphical face masks
 
 
 
